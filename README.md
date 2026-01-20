@@ -6,7 +6,7 @@ This folder contains everything you need to deploy existing Docker images from D
 
 ```
 ml-app/
-├── cloudbuild.yaml          # Production deployment config
+├── cloudbuild.yaml     dd      # Production deployment config
 ├── cloudbuild-dockerhub-staging.yaml  # Staging deployment config
 └── README.md                          # This file
 ```
