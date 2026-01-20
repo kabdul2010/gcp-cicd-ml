@@ -1,5 +1,5 @@
 steps:
-  # Pull the Docker image from Docker Hub
+  # Pull the Docker image from Docker Hub test
   - name: 'gcr.io/cloud-builders/docker'
     args: ['pull', '${_DOCKER_IMAGE}']
   
